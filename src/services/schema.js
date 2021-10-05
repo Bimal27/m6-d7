@@ -21,4 +21,4 @@ const blogpostSchema = new Schema (
     timestamps: true,
     }
 )
-export default model("strive-blog-post", blogpostSchema)
+export default model("strive-blog-posts", blogpostSchema)
